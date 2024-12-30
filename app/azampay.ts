@@ -1,0 +1,6 @@
+
+export const azamPayCallbackUrl = 'https://sandbox.azampay.co.tz/azampay/mno/checkout';
+export const appName = 'luxee-hub';
+export const clientId = '5a218012-ddca-4112-9258-7bfaa4e4414d';
+export const clientSecret = 'LKctRyFtPi/ojTdl730axE/DM8UnGw9OnSg2/SWrdAKsKb+MYRF+BSQtcTVlflzeQYBFQq5NebtlhEEu1iG9oilapb2n/b24PTSXzrziiNTexrTo9TgIJEF+OLoOwNlEQhWp51+SAwVW2raYcAkoe3/CgikVt1VjM5yTZ9wvKXdp0hS+6+b2xolXtMU8bnSO8LDTha9eZSgO/N4QHmVk3+nx+DMXzaxYDblky94j48BSp5xKtGvzcpcIdc1du4A4f8AcW5cNju5X3OZHU+RmhtylkMjvPgXf6qbnvGOo+p0ACNNF6IDXq5B6IH599ysnHalvzbfvwP7mhIfYpM/hUaTFT6fAAP0TEN+B0fMigXmw6zWmIwjKlZX71X4XgQUVlQU9m9dXW2WhIMvIhNPIEmXD7aHUtrSsAXV82n/xto7kEbmhcRx9TDFcV5lrHHQFr2FXU48Zc2XGQT40UAHlKLn2yExkNFiaanLhQf7F3vpkqaNJG8IVUosdU4eB1Wtms+KaYm+cYwg9yRx00fJO7bXXX3yC4Hc7+6ZG7XxXtLkEj4yDBxTy1qVLVg50054iHbpaUAKyJjhRhK5G1L9D1drzq1z778C+6seyGC9rzk65IukS2ffBDaGV6hy0/s1jZh7jHRLgwi/26LK4vzU3v9I+GAEvCieIt1p1si21SLY=';
+export const BaseUrl='https://authenticator-sandbox.azampay.co.tz/AppRegistration/GenerateToken';
